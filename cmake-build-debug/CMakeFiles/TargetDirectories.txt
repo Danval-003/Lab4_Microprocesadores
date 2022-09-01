@@ -1,0 +1,3 @@
+/home/danval/CLionProjects/Lab4_Microprocesadores/cmake-build-debug/CMakeFiles/Lab4_Microprocesadores.dir
+/home/danval/CLionProjects/Lab4_Microprocesadores/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danval/CLionProjects/Lab4_Microprocesadores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
